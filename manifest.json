@@ -1,7 +1,7 @@
 {
     "name": "Aliffia Humairah",
     "short_name": "DesainWeb",
-    "start_url": "/",
+    "start_url": "index.html, about.html, contact.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#3A1AB1",
